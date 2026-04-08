@@ -1,0 +1,201 @@
+customer_id,region,company_size,industry
+1,Asia,Small,Manufacturing
+2,North America,Medium,Retail
+3,Asia,Small,Retail
+4,Asia,Medium,Manufacturing
+5,North America,Medium,Finance
+6,North America,Large,Finance
+7,Asia,Medium,Retail
+8,Europe,Large,Finance
+9,Asia,Small,Tech
+10,Asia,Small,Retail
+11,Asia,Small,Finance
+12,Asia,Small,Retail
+13,North America,Large,Tech
+14,Asia,Small,Retail
+15,Europe,Medium,Retail
+16,North America,Medium,Retail
+17,Europe,Medium,Retail
+18,Europe,Large,Tech
+19,Europe,Small,Manufacturing
+20,Europe,Small,Retail
+21,North America,Small,Retail
+22,North America,Large,Finance
+23,Europe,Medium,Retail
+24,Europe,Medium,Finance
+25,North America,Small,Manufacturing
+26,North America,Medium,Tech
+27,North America,Medium,Tech
+28,Asia,Large,Manufacturing
+29,Asia,Large,Tech
+30,Asia,Large,Manufacturing
+31,Europe,Large,Manufacturing
+32,Asia,Small,Manufacturing
+33,Europe,Large,Tech
+34,Europe,Medium,Finance
+35,Asia,Small,Manufacturing
+36,Europe,Medium,Retail
+37,Asia,Medium,Tech
+38,Asia,Medium,Manufacturing
+39,North America,Large,Manufacturing
+40,Asia,Large,Retail
+41,North America,Small,Finance
+42,Asia,Small,Finance
+43,Asia,Large,Finance
+44,North America,Medium,Manufacturing
+45,North America,Small,Manufacturing
+46,Asia,Large,Manufacturing
+47,Europe,Large,Tech
+48,North America,Large,Retail
+49,Europe,Medium,Manufacturing
+50,Europe,Large,Retail
+51,Europe,Large,Retail
+52,North America,Large,Finance
+53,Europe,Large,Tech
+54,North America,Small,Manufacturing
+55,Europe,Small,Finance
+56,Asia,Large,Finance
+57,Asia,Medium,Manufacturing
+58,North America,Small,Retail
+59,Asia,Large,Finance
+60,Asia,Small,Retail
+61,Europe,Small,Tech
+62,North America,Medium,Retail
+63,Europe,Large,Tech
+64,Europe,Large,Retail
+65,Europe,Medium,Finance
+66,Europe,Medium,Finance
+67,Europe,Large,Tech
+68,Europe,Large,Manufacturing
+69,Europe,Medium,Tech
+70,North America,Small,Tech
+71,Asia,Small,Retail
+72,Europe,Medium,Retail
+73,Europe,Small,Tech
+74,Europe,Medium,Finance
+75,Europe,Small,Retail
+76,Europe,Small,Manufacturing
+77,Europe,Large,Retail
+78,Asia,Large,Retail
+79,Asia,Small,Manufacturing
+80,Europe,Small,Tech
+81,Asia,Large,Manufacturing
+82,North America,Large,Tech
+83,Europe,Large,Tech
+84,North America,Medium,Tech
+85,North America,Small,Manufacturing
+86,Europe,Large,Tech
+87,Asia,Small,Finance
+88,North America,Medium,Manufacturing
+89,Europe,Medium,Finance
+90,North America,Large,Tech
+91,North America,Medium,Retail
+92,North America,Small,Tech
+93,North America,Large,Finance
+94,Asia,Small,Finance
+95,North America,Small,Manufacturing
+96,North America,Medium,Retail
+97,North America,Medium,Manufacturing
+98,Asia,Medium,Finance
+99,North America,Medium,Tech
+100,North America,Medium,Retail
+101,Asia,Large,Tech
+102,Asia,Small,Tech
+103,Asia,Small,Retail
+104,North America,Small,Manufacturing
+105,Asia,Small,Tech
+106,Asia,Medium,Finance
+107,North America,Small,Tech
+108,Asia,Large,Retail
+109,North America,Large,Retail
+110,Europe,Small,Retail
+111,Asia,Small,Manufacturing
+112,Europe,Large,Tech
+113,North America,Large,Manufacturing
+114,Asia,Medium,Manufacturing
+115,North America,Large,Retail
+116,Europe,Medium,Retail
+117,North America,Medium,Manufacturing
+118,Asia,Medium,Tech
+119,Asia,Medium,Finance
+120,Europe,Medium,Manufacturing
+121,North America,Small,Tech
+122,Asia,Large,Retail
+123,Europe,Medium,Retail
+124,Asia,Large,Tech
+125,Asia,Large,Finance
+126,North America,Medium,Retail
+127,Asia,Small,Retail
+128,North America,Medium,Retail
+129,Asia,Small,Tech
+130,Europe,Large,Manufacturing
+131,Asia,Small,Retail
+132,North America,Small,Manufacturing
+133,North America,Small,Finance
+134,Europe,Large,Retail
+135,Asia,Large,Retail
+136,Asia,Small,Finance
+137,Europe,Small,Retail
+138,Asia,Medium,Manufacturing
+139,Asia,Small,Tech
+140,North America,Medium,Manufacturing
+141,Asia,Small,Tech
+142,Asia,Medium,Tech
+143,Europe,Large,Manufacturing
+144,Europe,Small,Manufacturing
+145,North America,Small,Manufacturing
+146,Asia,Small,Manufacturing
+147,Asia,Small,Finance
+148,Asia,Medium,Retail
+149,North America,Small,Tech
+150,North America,Large,Manufacturing
+151,Europe,Large,Manufacturing
+152,North America,Small,Manufacturing
+153,Asia,Large,Finance
+154,Asia,Small,Manufacturing
+155,North America,Small,Manufacturing
+156,Asia,Large,Manufacturing
+157,Asia,Small,Retail
+158,North America,Large,Finance
+159,North America,Medium,Manufacturing
+160,Asia,Small,Tech
+161,Asia,Medium,Tech
+162,Asia,Large,Tech
+163,Europe,Medium,Finance
+164,Europe,Medium,Finance
+165,Europe,Large,Tech
+166,North America,Medium,Manufacturing
+167,Europe,Medium,Finance
+168,North America,Large,Tech
+169,North America,Medium,Tech
+170,Europe,Large,Manufacturing
+171,Europe,Medium,Retail
+172,Europe,Large,Finance
+173,Asia,Large,Manufacturing
+174,Europe,Medium,Tech
+175,Asia,Medium,Tech
+176,North America,Medium,Manufacturing
+177,Asia,Small,Finance
+178,Europe,Small,Retail
+179,North America,Small,Retail
+180,North America,Large,Tech
+181,North America,Medium,Finance
+182,Asia,Large,Retail
+183,Europe,Small,Finance
+184,North America,Medium,Finance
+185,North America,Large,Tech
+186,North America,Medium,Retail
+187,Asia,Large,Manufacturing
+188,Asia,Medium,Tech
+189,Europe,Small,Retail
+190,Asia,Small,Retail
+191,North America,Medium,Retail
+192,Europe,Large,Retail
+193,North America,Small,Retail
+194,North America,Small,Finance
+195,Asia,Small,Tech
+196,Europe,Medium,Finance
+197,Asia,Medium,Manufacturing
+198,Asia,Large,Retail
+199,Europe,Large,Tech
+200,North America,Large,Retail
