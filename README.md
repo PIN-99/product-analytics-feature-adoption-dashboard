@@ -1,88 +1,65 @@
-# Product Analytics: Feature Adoption & KPI Dashboard
+# Product Analytics: Feature Adoption Dashboard
 
 ## Overview
 This project analyzes product feature adoption, customer behavior, and revenue patterns to support data-driven Go-to-Market (GTM) decisions.
 
-The goal is to identify:
-- Which features drive engagement
-- How adoption varies across regions
-- Which customer segments generate the most value
+Key questions:
+- Which features drive engagement?
+- How does adoption vary across regions?
+- Which customer segments generate the most value?
 
 ---
 
 ## Business Problem
 A SaaS company offers multiple product features but lacks visibility into:
 
-- Feature-level performance
-- Regional differences in usage
-- High-value customer segments
+- Feature-level performance  
+- Regional differences in usage  
+- High-value customer segments  
 
-Without this insight, sales and product teams cannot effectively prioritize growth efforts.
+This project builds a KPI framework and analysis to support business decision-making.
 
 ---
 
 ## Data
 The dataset includes:
 
-- **customers**: region, company size, industry  
-- **features**: product feature definitions  
-- **usage_events**: feature usage behavior  
-- **revenue**: revenue generated per customer  
+- customers: region, company size, industry  
+- features: product features  
+- usage_events: product usage behavior  
+- revenue: customer revenue  
 
 ---
 
 ## KPI Framework
 
-- **Feature Adoption Rate**  
-  Percentage of customers using a feature  
-
-- **Usage Intensity**  
-  Total usage per customer  
-
-- **Revenue per Customer**  
-  Total revenue contribution  
-
-- **Segment Performance**  
-  Combined view of usage and revenue  
-
----
-
-## Analysis
-
-### 1. Feature Adoption
-- All features show high adoption (~85%+)
-- Indicates strong baseline engagement
-
-### 2. Regional Differences
-- Adoption varies by region
-- Suggests region-specific user behavior patterns
-
-### 3. Segment Performance
-- High-value segments identified by high usage + revenue
-- Some segments show high usage but lower monetization
+- Feature Adoption Rate  
+- Usage Intensity  
+- Revenue per Customer  
+- Segment Performance  
 
 ---
 
 ## Key Insights
 
-- Adoption alone is not sufficient to evaluate product performance  
-- Regional differences highlight opportunities for localized GTM strategies  
-- Customer segmentation enables targeted sales prioritization  
+- Feature adoption is consistently high across all products  
+- Regional differences indicate varying user behavior  
+- High-value segments identified through usage and revenue  
 
 ---
 
-## Business Recommendations
+## Business Impact
 
-- Focus sales efforts on high-value segments  
-- Improve monetization strategies for high-usage, low-revenue segments  
-- Tailor GTM strategy based on regional usage patterns  
+- Enables targeted sales prioritization  
+- Supports GTM strategy optimization  
+- Identifies monetization opportunities  
 
 ---
 
 ## Tools
 - Python (pandas)
-- SQL (analysis logic)
-- Power BI / Tableau (dashboard)
+- SQL
+- Data Visualization
 
 ---
 
